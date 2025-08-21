@@ -2,14 +2,14 @@
 
 A Python implementation of real-time face detection using OpenCV's deep learning module.
 
-## ✨ Features
+##  Features
 
 - Real-time face detection from webcam
 - Deep learning-based detection using OpenCV's DNN module
 - Confidence score display for each detection
 - Simple and beginner-friendly code
 
-## 🚀 Installation
+##  Installation
 
 1. **Clone this repository**:
    ```bash
@@ -28,7 +28,7 @@ A Python implementation of real-time face detection using OpenCV's deep learning
 
    Place these files in the `models/` folder.
 
-## 💻 Usage
+##  Usage
 
 Run the face detection script:
 ```bash
@@ -43,7 +43,7 @@ Press 'q' to quit the application.
 - OpenCV
 - Deep Neural Networks (DNN)
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 face-detection-opencv/
