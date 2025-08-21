@@ -37,7 +37,7 @@ python face_detection.py
 
 Press 'q' to quit the application.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - OpenCV
